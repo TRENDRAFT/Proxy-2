@@ -10,7 +10,7 @@ requests==2.31.0
 flask==3.0.0
 
 # Proxy Server
-mitmproxy==10.1.5
+mitmproxy==12.2.3
 
 # Installation:
 # pip install -r requirements.txt
